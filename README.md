@@ -9,6 +9,8 @@ Regards,
 Liuping liu
 
 
+Noting: because github limits the size of uploading files, then we have store the full data and code at google's drive. The address is here:https://drive.google.com/drive/folders/1qs0pTcrvfCNcmPXq6GkaDxMdf2FwB0s8?usp=sharing.
+
 Preparation:
 The code is implemented with python script and some of packages in python are used. Therefore, we must configure the environment before we run the code.
 1、	The code runs in python 2.7. Then we must install the python interpreter first.
