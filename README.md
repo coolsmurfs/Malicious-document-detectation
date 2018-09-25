@@ -29,7 +29,7 @@ Guidelines for Code and DataSet:
 Generate the EPS.txt file
       The first step is to generate the EPS.txt file which contain the entropy sequence of the samples. The procedure can be as follows:
 1.	Open the file "GenerateETS.py" using python.
-2.	In line 6 of the code, change the folder where the path of the samples. For example, we can change “DataSet” to “D:\DataSet” if the dataset store in “D:\DataSet”. The row dataset can be download here https://drive.google.com/drive/folders/1qs0pTcrvfCNcmPXq6GkaDxMdf2FwB0s8?usp=sharing.
+2.	In line 6 of the code, change the folder where the path of the samples. For example, we can change “DataSet” to “D:\DataSet” if the dataset store in “D:\DataSet”. The row dataset can be download here https://drive.google.com/drive/folders/1r4BmvAUJF5VIo5EUhOECOU_GKof6sH-H?usp=sharing.
 3.	Run this script, then it will generate the ESP.txt. Here, we have generated an EPS.txt file which contain the entropy sequence of the samples. To save time, people can use the files that have been generated.
 Extract feature from the entropy sequence
 	We can extract features and generate the training file when we generate ESP.txt file.
