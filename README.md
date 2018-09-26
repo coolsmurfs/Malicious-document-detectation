@@ -11,6 +11,10 @@ Liuping liu
 
 Noting: because github limits the size of uploading files, then we have store the full data and code at google's drive. The address is here:https://drive.google.com/drive/folders/1qs0pTcrvfCNcmPXq6GkaDxMdf2FwB0s8?usp=sharing.
 
+
+Be careful: The malicious samples in the folder TestData and TrainingData contain malicious code. Most of them are collected from some cyber attacks. Therefore, users can not open them directly in the computers. If you really want to  check them, you can open them in a sandbox, like virtual machine environment.
+
+
 Preparation:
 The code is implemented with python script and some of packages in python are used. Therefore, we must configure the environment before we run the code.
 1、	The code runs in python 2.7. Then we must install the python interpreter first.
