@@ -1,6 +1,6 @@
 Dear Researcher,
 
-Thank you for using this code and datasets. I explain how the code related to my paper " Capturing the symptoms of malicious code in electronic documents by file’s entropy signal combined with Machine learning " published in Applied Soft Computing, works. The main datasets mentioned in the paper together with code are included.
+Thank you for using this code and datasets. I explain the code which used to detect malicious documents based on the entropy signal of the file..
 If there is any question, feel free to contact me at:
 lupingllp@gmail.com
 
